@@ -16,7 +16,12 @@ mode: localization #mappinglocalization
 # if you'd like to immediately start continuing a map at a given pose
 # or at the dock, but they are mutually exclusive, if pose is given
 # will use pose
-map_file_name: /home/hcchen/.ros/my_map_serial
+map_file_name: /home/hcchen/catkin_ws/src/auto_nav/maps/flat_serial
+# /home/hcchen/catkin_ws/src/auto_nav/maps/my_map_serial
+# /home/hcchen/catkin_ws/src/auto_nav/maps/flat_serial
+# /home/hcchen/catkin_ws/src/auto_nav/maps/small_slope_serial
+# /home/hcchen/.ros/my_map_serial
+
 # map_start_pose: [0.0, 0.0, 0.0]
 map_start_at_dock: true
 
