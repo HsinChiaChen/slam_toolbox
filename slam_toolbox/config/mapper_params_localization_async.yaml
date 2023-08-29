@@ -20,6 +20,7 @@ map_file_name: /home/hcchen/catkin_ws/src/auto_nav/maps/flat_serial
 # /home/hcchen/catkin_ws/src/auto_nav/maps/my_map_serial
 # /home/hcchen/catkin_ws/src/auto_nav/maps/flat_serial
 # /home/hcchen/catkin_ws/src/auto_nav/maps/small_slope_serial
+# /home/hcchen/catkin_ws/src/auto_nav/maps/turtlebot3_house_serial
 # /home/hcchen/.ros/my_map_serial
 
 # map_start_pose: [0.0, 0.0, 0.0]
